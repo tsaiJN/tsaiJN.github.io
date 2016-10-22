@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chieh-En Tsai (Andy Tsai)</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-10-22T09:22:33.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Chieh-En Tsai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Find My Earlier Posts on Blogger</title>
+    <link href="http://yoursite.com/2016/10/22/hello-world/"/>
+    <id>http://yoursite.com/2016/10/22/hello-world/</id>
+    <published>2016-10-22T09:22:33.000Z</published>
+    <updated>2016-10-22T09:22:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>To maintain a blog with more flexible and programmable, I decide to stop using Blogger and build a site of my own on Github pages.</p>
+<p>You may find my earlier posts <a href="http://jntsai.blogspot.tw/" target="_blank" rel="external">here</a> on Blogger.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;To maintain a blog with more flexible and programmable, I decide to stop using Blogger and build a site of my own on Github pages.&lt;/p&gt;
+&lt;p
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
